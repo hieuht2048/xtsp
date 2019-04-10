@@ -1,0 +1,13 @@
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: GoogleBot
+Allow: /
+
+User-agent: GoogleBot-Mobile
+Allow: /
+
+Sitemap: https://www.xitashop.com/sitemap.xml
