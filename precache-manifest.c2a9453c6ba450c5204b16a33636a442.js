@@ -104,12 +104,12 @@ self.__precacheManifest = [
     "url": "/static/media/info.fc5c5044.svg"
   },
   {
-    "revision": "00f7caf6a59ae61e993ef0dbe38d85c3",
-    "url": "/static/media/footer-bg.00f7caf6.svg"
-  },
-  {
     "revision": "dbaea6634ba0dfedd5dd8f7846005cbf",
     "url": "/static/media/header-bg.dbaea663.svg"
+  },
+  {
+    "revision": "00f7caf6a59ae61e993ef0dbe38d85c3",
+    "url": "/static/media/footer-bg.00f7caf6.svg"
   },
   {
     "revision": "c2130e100a8d736e5d969bc343f5d0bf",
